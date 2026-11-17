@@ -8,12 +8,12 @@
 
 import java.util.Scanner;
 
-public class Main {
+public class Ex46 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
-		double[] precos   = 0;
-		int[] quantidades = 0;
+		double[] precos;
+		int[] quantidades;
 		int n             = 0;
 		int i             = 0;
 		double subtotal   = 0;
